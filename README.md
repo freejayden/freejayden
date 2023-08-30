@@ -1,6 +1,6 @@
 ### Hi there 👋
 # About Me
-
+I was raised in Iowa City, IA. I enrolled at ISU in 2021 and joined Formula SAE, a motorsports club on campus. In my free time I like to either play videogames or work on my RC aircraft that I've put a lot of time into. 
 <!--
 **freejayden/freejayden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
